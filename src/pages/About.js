@@ -1,3 +1,3 @@
 export default function About() {
-  return <div>This is the About Page</div>;
+  return <div><h1>This is the About Page</h1></div>;
 }
